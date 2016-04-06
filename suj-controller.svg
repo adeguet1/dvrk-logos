@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="suj-controller.pdf">
+   sodipodi:docname="suj-controller.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,59 +150,61 @@
            sodipodi:role="line">10.0 cm x 3.5 cm</tspan></text>
     </g>
     <g
-       id="g3899"
-       transform="matrix(0,1,-1,0,1000.0437,-1391.6559)"
-       style="stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+       id="g3047">
       <rect
-         y="-318.30246"
-         x="512.8924"
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-1318.3462"
+         x="-878.76349"
          height="139.97797"
          width="458.87561"
          id="rect2985-9-1"
-         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
-         transform="scale(0.9733962,1.0273309)"
+         transform="matrix(0,0.9733962,-1.0273309,0,0,0)"
          sodipodi:linespacing="125%"
          id="text3757-3-6"
-         y="-253.04045"
-         x="579.43195"
-         style="font-size:44.51316451999999657px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.5433071;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         y="-1226.4792"
+         x="-850.25916"
+         style="font-size:44.51316452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="-253.04045"
-           x="579.43195"
+           style="stroke-width:3.54330707"
+           y="-1226.4792"
+           x="-850.25916"
            id="tspan3759-5-5"
-           sodipodi:role="line">12V PS</tspan><tspan
+           sodipodi:role="line">24V PS</tspan><tspan
+           style="stroke-width:3.54330707"
            id="tspan3761-7-9"
-           y="-197.399"
-           x="579.43195"
+           y="-1170.8378"
+           x="-850.25916"
            sodipodi:role="line">10.0 cm x 3.5 cm</tspan></text>
     </g>
     <g
-       id="g3899-0"
-       transform="matrix(0,1,-1,0,800.04373,-1391.6559)"
-       style="stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+       id="g3041">
       <rect
-         y="-318.30246"
-         x="512.8924"
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-1118.3462"
+         x="-878.76349"
          height="139.97797"
          width="458.87561"
          id="rect2985-9-1-2"
-         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
-         transform="scale(0.9733962,1.0273309)"
+         transform="matrix(0,0.9733962,-1.0273309,0,0,0)"
          sodipodi:linespacing="125%"
          id="text3757-3-6-7"
-         y="-253.04045"
-         x="579.43195"
-         style="font-size:44.51316451999999657px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.5433071;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         y="-1031.7999"
+         x="-850.25916"
+         style="font-size:44.51316452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="-253.04045"
-           x="579.43195"
+           style="stroke-width:3.54330707"
+           y="-1031.7999"
+           x="-850.25916"
            id="tspan3759-5-5-6"
-           sodipodi:role="line">12V PS</tspan><tspan
+           sodipodi:role="line">24V PS</tspan><tspan
+           style="stroke-width:3.54330707"
            id="tspan3761-7-9-5"
-           y="-197.399"
-           x="579.43195"
+           y="-976.15845"
+           x="-850.25916"
            sodipodi:role="line">10.0 cm x 3.5 cm</tspan></text>
     </g>
     <g
