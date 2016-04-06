@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1620"
+   height="2160"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="suj-controller.pdf">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46157407"
+     inkscape:cx="810"
+     inkscape:cy="1080"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1877"
+     inkscape:window-height="1176"
+     inkscape:window-x="43"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1107.639)">
+    <g
+       id="g4027"
+       transform="translate(224,-199.99982)"
+       style="stroke-width:3.54330709;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         style="stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="translate(259.20076,-270.49438)"
+         id="g3763">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985"
+           width="616.43298"
+           height="425.07901"
+           x="142.14725"
+           y="362.52106" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+           x="200.79924"
+           y="1162.1478"
+           id="text3757"
+           sodipodi:linespacing="125%"
+           transform="translate(0,-719.29263)"><tspan
+             sodipodi:role="line"
+             id="tspan3759"
+             x="200.79924"
+             y="1162.1478">FPGA QLA</tspan><tspan
+             sodipodi:role="line"
+             x="200.79924"
+             y="1212.1478"
+             id="tspan3761">17.4 cm x 12.0 cm</tspan></text>
+      </g>
+      <g
+         style="stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="translate(262,719.99999)"
+         id="g3807">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985-5"
+           width="644.52661"
+           height="492.1644"
+           x="121.52565"
+           y="-175.23634" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+           x="178"
+           y="-27.639174"
+           id="text3757-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3759-1"
+             x="178"
+             y="-27.639174">dSIB</tspan><tspan
+             sodipodi:role="line"
+             x="178"
+             y="22.360826"
+             id="tspan3803">18.3 cm x 14.0 cm</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3893"
+       transform="matrix(0,1,-1,0,32.36084,-1087.639)"
+       style="stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <rect
+         y="-458.67484"
+         x="212.80347"
+         height="122.4393"
+         width="423.62039"
+         id="rect2985-9"
+         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3757-3"
+         y="-407.63916"
+         x="260"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-407.63916"
+           x="260"
+           id="tspan3759-5"
+           sodipodi:role="line">12V PS</tspan><tspan
+           id="tspan3761-7"
+           y="-357.63916"
+           x="260"
+           sodipodi:role="line">10.0 cm x 3.5 cm</tspan></text>
+    </g>
+    <g
+       id="g3899"
+       transform="matrix(0,1,-1,0,1000.0437,-1391.6559)"
+       style="stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <rect
+         y="-318.30246"
+         x="512.8924"
+         height="139.97797"
+         width="458.87561"
+         id="rect2985-9-1"
+         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="scale(0.9733962,1.0273309)"
+         sodipodi:linespacing="125%"
+         id="text3757-3-6"
+         y="-253.04045"
+         x="579.43195"
+         style="font-size:44.51316451999999657px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.5433071;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-253.04045"
+           x="579.43195"
+           id="tspan3759-5-5"
+           sodipodi:role="line">12V PS</tspan><tspan
+           id="tspan3761-7-9"
+           y="-197.399"
+           x="579.43195"
+           sodipodi:role="line">10.0 cm x 3.5 cm</tspan></text>
+    </g>
+    <g
+       id="g3899-0"
+       transform="matrix(0,1,-1,0,800.04373,-1391.6559)"
+       style="stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <rect
+         y="-318.30246"
+         x="512.8924"
+         height="139.97797"
+         width="458.87561"
+         id="rect2985-9-1-2"
+         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="scale(0.9733962,1.0273309)"
+         sodipodi:linespacing="125%"
+         id="text3757-3-6-7"
+         y="-253.04045"
+         x="579.43195"
+         style="font-size:44.51316451999999657px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.5433071;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-253.04045"
+           x="579.43195"
+           id="tspan3759-5-5-6"
+           sodipodi:role="line">12V PS</tspan><tspan
+           id="tspan3761-7-9-5"
+           y="-197.399"
+           x="579.43195"
+           sodipodi:role="line">10.0 cm x 3.5 cm</tspan></text>
+    </g>
+    <g
+       id="g3969"
+       transform="translate(299.99999,-79.999866)"
+       style="stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-534.37042"
+         x="-517.32336"
+         height="174.38464"
+         width="209.81772"
+         id="rect2985-9-1-2-8"
+         style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="matrix(0,0.9733962,-1.0273309,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3757-3-6-7-1"
+         y="-447.76227"
+         x="-480.42014"
+         style="font-size:44.51316452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-447.76227"
+           x="-480.42014"
+           id="tspan3759-5-5-6-6"
+           sodipodi:role="line">Relay</tspan><tspan
+           style="stroke-width:3.54330707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3761-7-9-5-1"
+           y="-392.12082"
+           x="-480.42014"
+           sodipodi:role="line">6 x 5</tspan></text>
+    </g>
+    <g
+       id="g4065"
+       transform="translate(194,-213.9998)"
+       style="stroke-width:3.54330709;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-197.55754"
+         x="-161.3576"
+         height="73.653557"
+         width="366.16864"
+         id="rect2985-9-9"
+         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3757-3-7"
+         y="-146"
+         x="-113.6392"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3761-7-3"
+           y="-146"
+           x="-113.6392"
+           sodipodi:role="line">Power Switch</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-9-9-0"
+       width="1784.5085"
+       height="1040.4015"
+       x="-925.72662"
+       y="-1359.825"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <g
+       id="g4070"
+       transform="translate(134,-75.999748)"
+       style="stroke-width:3.54330709;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-257.73373"
+         x="118.4662"
+         height="74.005882"
+         width="290.69351"
+         id="rect2985-9-9-3"
+         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3757-3-7-4"
+         y="-206"
+         x="148.36075"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3761-7-3-6"
+           y="-206"
+           x="148.36075"
+           sodipodi:role="line">Data ports</tspan></text>
+    </g>
+    <g
+       id="g4105"
+       style="stroke-width:3.54330709;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-391.41678"
+         x="382.78342"
+         height="73.371964"
+         width="433.04855"
+         id="rect2985-9-9-3-5"
+         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3757-3-7-4-2"
+         y="-340"
+         x="412.36099"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3761-7-3-6-4"
+           y="-340"
+           x="412.36099"
+           sodipodi:role="line">LED panels</tspan></text>
+    </g>
+    <g
+       id="g4140"
+       transform="translate(-32,20.000008)"
+       style="stroke-width:3.54330709;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-1390.9126"
+         x="-356.71246"
+         height="72.363708"
+         width="724.51776"
+         id="rect2985-9-9-3-5-5"
+         style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3757-3-7-4-2-2"
+         y="-1340"
+         x="-327.63901"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3761-7-3-6-4-6"
+           y="-1340"
+           x="-327.63901"
+           sodipodi:role="line">Mounting holes, reinforced plate?</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="329.30792"
+       y="119.15747"
+       id="text4145"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-1107.639)"><tspan
+         sodipodi:role="line"
+         id="tspan4147"
+         x="329.30792"
+         y="119.15747">30.0 * 50.0 cm (19&quot; = ~48.26 cm,   30cm = 11.8&quot;)</tspan></text>
+  </g>
+</svg>
