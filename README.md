@@ -1,3 +1,3 @@
 # dVRK logos
 
-Feel free to contribute your own design
+Old repository, see https://github.com/jhu-dvrk/dvrk-logo
